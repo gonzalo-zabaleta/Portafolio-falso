@@ -1,0 +1,15 @@
+.formacion_academica {
+
+    align-items: center;
+    background: #EAF2FD;
+    display: flex;
+    padding: 5rem 0;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .formacion_academica{
+
+        padding: 1rem 0;
+    }
+}

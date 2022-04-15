@@ -1,0 +1,14 @@
+.enlace-item-lista-encabezado{
+
+    color: #020202;
+    text-decoration: none;
+    font-size: 1rem;
+    line-height: 19px;
+}
+
+.enlace-item-lista-encabezado:hover{
+
+    color: #2a7aea;
+    font-size: 1.25rem;
+    transition: .1s all;
+}

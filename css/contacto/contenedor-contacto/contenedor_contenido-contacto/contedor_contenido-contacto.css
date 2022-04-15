@@ -1,0 +1,14 @@
+.contedor_contenido-contacto{
+
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+
+@media screen and (max-width: 768px) {
+ 
+    .contedor_contenido-contacto{
+
+        width: 100%;
+    }
+}

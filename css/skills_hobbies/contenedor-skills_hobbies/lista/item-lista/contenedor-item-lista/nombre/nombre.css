@@ -1,0 +1,18 @@
+.nombre-item-lista-skills, .nombre-item-lista-hobbies{
+
+    color: #464646;
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .nombre-item-lista-skills, .nombre-item-lista-hobbies{
+
+        font-size: 16px;
+        line-height: 19px;
+        margin-bottom: 1rem;
+    }
+}

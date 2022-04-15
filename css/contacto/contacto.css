@@ -1,0 +1,14 @@
+.contacto{
+
+    display: flex;
+    background: #EAF2FD;
+    padding: 5rem 0;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .contacto{
+
+        padding: 1rem 0;
+    }
+}

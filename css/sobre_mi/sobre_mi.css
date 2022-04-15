@@ -1,0 +1,14 @@
+.sobre-mi{
+
+    background: #EAF2FD;
+    display: flex;
+    padding: 4rem 0;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .sobre-mi{
+
+        padding: 1rem 0;
+    }
+}

@@ -1,0 +1,15 @@
+.imagen-item-lista-proyectos {
+
+    height: 50%;
+    width: 60%;
+}
+
+@media screen and (max-width: 768px) {
+
+    .imagen-item-lista-proyectos{
+
+        order: -1;
+        width: 100%;
+        margin-bottom: 1rem;
+    }
+}

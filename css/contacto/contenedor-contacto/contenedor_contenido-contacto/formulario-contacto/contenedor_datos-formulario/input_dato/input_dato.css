@@ -1,0 +1,10 @@
+.input_dato-contenedor_datos-formulario{
+
+    border: none;
+    border-bottom: 1px solid #C8C8C8;
+    border-radius:  0 0 5px 5px;
+    font-size: 1rem;
+    padding: 0.625rem;
+    margin-bottom: .5rem;
+    outline: none;
+}

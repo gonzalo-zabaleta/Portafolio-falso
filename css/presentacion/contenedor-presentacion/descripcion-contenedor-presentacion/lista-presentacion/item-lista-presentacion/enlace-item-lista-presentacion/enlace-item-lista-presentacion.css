@@ -1,0 +1,28 @@
+.enlace-item-lista-presentacion{
+
+    text-decoration: none;
+    color: #464646;
+}
+
+.flecha{
+
+    margin-left: .3rem;
+    transform: rotate(-45deg);
+}
+
+.enlace-item-lista-presentacion:hover{
+
+    color: #2a7aea;
+    font-size: 1.25rem;
+    transition: .1s all;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .enlace-item-lista-presentacion{
+
+        font-size: 14px;
+        font-weight: 600;
+        line-height: 16px;
+    }
+}

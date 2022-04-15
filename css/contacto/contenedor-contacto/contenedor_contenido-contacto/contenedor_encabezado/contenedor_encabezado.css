@@ -1,0 +1,4 @@
+.contenedor_encabezado-contenido-contacto{
+    display: flex;
+    flex-direction: column;
+}

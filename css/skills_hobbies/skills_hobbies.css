@@ -1,0 +1,14 @@
+.skills_hobbies{
+
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 5rem;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .skills_hobbies{
+
+        padding-bottom: 1rem;
+    }
+}

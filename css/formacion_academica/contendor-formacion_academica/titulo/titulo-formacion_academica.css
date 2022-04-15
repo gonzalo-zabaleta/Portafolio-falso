@@ -1,0 +1,28 @@
+.titulo-formacion_academica {
+
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 5rem;
+    margin-bottom: 2.5rem;
+    text-align: center;
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    
+    .titulo-formacion_academica{
+
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 2rem;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    
+    .titulo-formacion_academica{
+
+        font-size: 22px;
+        line-height: 26px;
+        margin-bottom: 1rem;
+    }
+}

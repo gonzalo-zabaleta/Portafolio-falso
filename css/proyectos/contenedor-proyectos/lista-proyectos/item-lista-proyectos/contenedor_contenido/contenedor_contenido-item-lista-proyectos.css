@@ -1,0 +1,15 @@
+.contenedor_contenido-item-lista-proyectos {
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 35%
+}
+
+@media screen and (max-width: 768px) {
+
+    .contenedor_contenido-item-lista-proyectos{
+
+        width: 100%;
+    }
+}

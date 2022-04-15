@@ -1,0 +1,16 @@
+.titulo-encabezado-contacto{
+
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 2.375rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+ 
+    .titulo-encabezado-contacto{
+
+        line-height: 26px;
+        font-size: 22px;
+    }
+}

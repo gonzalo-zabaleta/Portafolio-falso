@@ -1,0 +1,16 @@
+.logos-item-lista-skills, .logos-item-lista-hobbies{
+
+    color: #2A7AE4;
+    font-size: 3rem;
+    margin-bottom: 2.5rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .logos-item-lista-skills, .logos-item-lista-hobbies{
+
+        font-size: 32px;
+        line-height: 37px;
+        margin-bottom: 1rem;
+    }
+}

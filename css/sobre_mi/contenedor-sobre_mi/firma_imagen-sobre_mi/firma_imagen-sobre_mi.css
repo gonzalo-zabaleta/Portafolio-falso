@@ -1,0 +1,14 @@
+.firma_imagen-sobre_mi{
+
+    width: 20%;
+    height: 30%;
+    margin: 2.5rem 0;
+}
+
+@media screen and (max-width: 768px) {
+
+    .firma_imagen-sobre_mi{
+
+        margin: 1rem 0;
+    }
+}

@@ -1,0 +1,26 @@
+.item-lista-formacion_academica{
+
+    display: flex;
+    flex-direction: column;
+    height: 260px;
+    margin: 3rem 0;
+    width: 368px;
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+
+    .item-lista-formacion_academica{
+
+        height: 169px;
+        width: 224px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+
+    .item-lista-formacion_academica{
+
+        height: 130px;
+        width: 296px;
+    }
+}

@@ -1,0 +1,13 @@
+.tiempo_curso-formacion_academica {
+
+    font-size: 1.125rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .tiempo_curso-formacion_academica{
+
+        font-size: 14px;
+        line-height: 16px;
+    }
+}

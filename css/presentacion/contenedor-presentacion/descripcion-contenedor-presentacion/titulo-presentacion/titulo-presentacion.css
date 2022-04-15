@@ -1,0 +1,15 @@
+.titulo-presentacion{
+
+    font-size: 3.25rem;
+    font-weight: bold;
+    line-height: 4rem;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .titulo-presentacion{
+
+        font-size: 22px;
+        line-height: 26px;
+    }
+}

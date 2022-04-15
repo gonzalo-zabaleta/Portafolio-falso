@@ -1,0 +1,13 @@
+.nav-encabezado .lista-encabezado{
+
+    align-items: center;
+    display: flex;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .nav-encabezado{
+
+        display: none;
+    }
+}

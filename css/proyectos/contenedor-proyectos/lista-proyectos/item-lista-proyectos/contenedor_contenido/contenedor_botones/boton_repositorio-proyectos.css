@@ -1,0 +1,10 @@
+.boton_repositorio-proyectos{
+
+    text-decoration: none;
+    padding: 1rem;
+    border: 1px solid #2a7aea;
+    box-sizing: border-box;
+    background: white;
+    color: #2a7aea;
+    margin-right: 1rem;
+}

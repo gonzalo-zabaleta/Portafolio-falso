@@ -1,0 +1,18 @@
+.item-lista-proyectos {
+
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 6rem;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .item-lista-proyectos{
+
+        align-items: flex-start;
+        flex-direction: column;
+        margin-bottom: 3rem;
+    }
+}

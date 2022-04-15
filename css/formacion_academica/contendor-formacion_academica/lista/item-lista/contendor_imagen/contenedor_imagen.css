@@ -1,0 +1,18 @@
+.contenedor_imagen-formacion_academica{
+
+    align-items: center;
+    background: #ffffff;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .contenedor_imagen-formacion_academica{
+
+        width: 95%;
+    }
+}

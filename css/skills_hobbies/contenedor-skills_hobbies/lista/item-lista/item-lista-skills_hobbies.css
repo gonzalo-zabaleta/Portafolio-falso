@@ -1,0 +1,22 @@
+.item-lista-skills, .item-lista-hobbies{
+
+    margin: 1rem;
+    background: white;
+    border-radius: 10px;
+}
+
+.item-lista-skills:hover, .item-lista-hobbies:hover{
+
+    border: 1px solid #2A7AE4;
+    filter: drop-shadow(2px 4px 1px hsl(210, 83%, 75%));
+    transform: scale(1.5);
+    transition: .1s all;
+}
+
+@media screen and (max-width: 360px) {
+    
+    .item-lista-skills, .item-lista-hobbies{
+
+        margin: 0.5rem;
+    }
+}

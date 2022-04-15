@@ -1,0 +1,25 @@
+.descripcion-contenedor-presentacion{
+
+    display: flex;
+    flex-direction: column;
+    margin: 2rem 0;
+    width: 65%;
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+
+    .descripcion-contenedor-presentacion{
+
+        margin-right: 1rem;
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+
+    .descripcion-contenedor-presentacion{
+
+        margin: 1rem 0;
+        width: 100%;
+    }
+}

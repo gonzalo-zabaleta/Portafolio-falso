@@ -1,0 +1,14 @@
+.parrafos-enbezado-contacto{
+
+    line-height: 1rem;
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .parrafos-enbezado-contacto{
+
+        margin-bottom: 0.5rem;
+    }
+}

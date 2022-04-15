@@ -1,0 +1,15 @@
+.nombre-proyecto {
+
+    font-size: 1rem;
+    line-height: 1.125rem;
+    margin-bottom: 1rem;
+}
+
+@media screen and (max-width: 768px) {
+
+    .nombre-proyecto{
+
+        line-height: 16px;
+        font-size: 14px;
+    }
+}

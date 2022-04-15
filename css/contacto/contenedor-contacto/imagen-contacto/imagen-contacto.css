@@ -1,0 +1,13 @@
+.imagen_telefono-contacto{
+
+    height: 100%;
+    width: 35%;
+}
+
+@media screen and (max-width: 768px) {
+ 
+    .imagen_telefono-contacto{
+
+        display: none;
+    }
+}

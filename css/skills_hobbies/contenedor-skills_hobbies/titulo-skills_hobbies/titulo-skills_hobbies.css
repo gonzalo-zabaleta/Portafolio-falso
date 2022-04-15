@@ -1,0 +1,25 @@
+.titulo-skills, .titulo-hobbies{
+
+    font-weight: bold;
+    font-size: 2rem;
+    line-height: 5rem;
+    text-align: center;
+    margin: 2.5rem 0;
+}
+
+@media screen and (max-width: 768px) {
+    
+    .titulo-skills, .titulo-hobbies{
+
+        font-size: 22px;
+        line-height: 26px;
+    }
+}
+
+@media screen and (max-width: 360px) {
+    
+    .titulo-skills, .titulo-hobbies{
+
+        margin: 1rem 0;
+    }
+}

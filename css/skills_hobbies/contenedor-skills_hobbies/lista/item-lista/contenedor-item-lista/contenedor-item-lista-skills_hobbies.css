@@ -1,0 +1,29 @@
+.contenedor-item-lista-skills, .contenedor-item-lista-hobbies{
+
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    justify-content: flex-end;
+    width: 200px;
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+    
+    .contenedor-item-lista-skills, .contenedor-item-lista-hobbies{
+
+        justify-content: center;
+        width: 224px;
+        height: 118px;
+    }   
+}
+
+@media screen and (max-width: 360px) {
+    
+    .contenedor-item-lista-skills, .contenedor-item-lista-hobbies{
+
+        height: 118px;
+        justify-content: center;
+        width: 155px;
+    }   
+}

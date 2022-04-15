@@ -1,0 +1,10 @@
+.boton_demo-proyectos {
+
+    text-decoration: none;
+    padding: 1rem;
+    border: 1px solid #2a7aea;
+    box-sizing: border-box;
+    background: #2a7aea;
+    color: white;
+    margin-right: 1rem;
+}

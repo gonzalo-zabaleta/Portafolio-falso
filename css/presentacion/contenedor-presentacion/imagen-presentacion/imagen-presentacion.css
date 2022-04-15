@@ -1,0 +1,26 @@
+.contenedor-imagen-presentancion{
+
+    width: 30%;
+}
+
+.imagen-presentacion{
+
+    width: 100%;
+}
+
+@media screen and (min-width: 361px) and (max-width: 768px) {
+
+    .contenedor-imagen-presentacion {
+
+        width: 10%;
+    }
+}
+
+@media screen and (max-width: 360px) {
+
+    .contenedor-imagen-presentancion{
+
+        order: -1;
+        width: 100%;
+    }
+}
